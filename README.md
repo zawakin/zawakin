@@ -1,6 +1,6 @@
 I would like to create something related to science and engineering that people can **enjoy and learn from**.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zawawahoge&theme=nord_bright)
+![](https://raw.githubusercontent.com/zawawahoge/zawawahoge/main/profile-summary-card-output/nord_bright/0-profile-details.svg)
 
 [![My Twitter Follower](https://img.shields.io/twitter/follow/zawawahoge?label=Twitter&logo=twitter&style=flat)](https://twitter/zawawahoge)
 
